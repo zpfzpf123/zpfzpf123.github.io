@@ -17,9 +17,5 @@ export const navbar = defineNavbarConfig([
                 link: '/notes/practicalTutorialsOnTheFrontEnd/zpf-elementui-plugin/1.介绍安装.md',
             },
         ]
-    },
-    {
-      text: '笔记',
-      items: [{ text: '示例', link: '/notes/demo/1.介绍安装.md' }]
-    },
+    }
 ])
