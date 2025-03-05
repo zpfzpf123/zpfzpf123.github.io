@@ -14,7 +14,7 @@ export default defineThemeConfig({
         {icon: 'github', link: '/'},
     ],
     // navbarSocialInclude: ['github'], // 允许显示在导航栏的 social 社交链接
-    aside: 'left', // 页内侧边栏， 默认显示在右侧
+    // aside: 'left', // 页内侧边栏， 默认显示在右侧
     outline: 'deep', // 页内大纲， 默认显示 h2, h3
     sidebar:{
         collapsed: true
@@ -49,7 +49,7 @@ export default defineThemeConfig({
     },
 
     navbar,
-    // notes,
+    notes,
 
     /**
      * 公告板
