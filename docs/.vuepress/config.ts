@@ -42,10 +42,10 @@ export default defineUserConfig({
     // docsBranch: '',
 
     /* 页内信息 */
-    // editLink: true,
-    // lastUpdated: true,
-    // contributors: true,
-    // changelog: false,
+    editLink: true,
+    lastUpdated: true,
+    contributors: true,
+    changelog: true,
 
     /**
      * 博客
