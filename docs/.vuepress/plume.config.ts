@@ -17,7 +17,7 @@ export default defineThemeConfig({
     // aside: 'left', // 页内侧边栏， 默认显示在右侧
     outline: 'deep', // 页内大纲， 默认显示 h2, h3
     sidebar:{
-        collapsed: true
+        collapsed: 'auto'
     },
 
     /**
